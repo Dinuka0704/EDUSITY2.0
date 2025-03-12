@@ -10,6 +10,11 @@
     margin-bottom: 40px;
 
 }
+.button1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 
 .gallery img{
     width: 23%;
