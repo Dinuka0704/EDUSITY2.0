@@ -10,6 +10,9 @@ const Hero = () => {
         <p>Our cutting edge curriculam is designed to empower students with the knowledge, skill, and experiences needed to excel in the dynamic field of education.</p>
         <button className='btn'>Explore more</button>
         </div>
+        <div>
+          <img src="" alt="" />
+        </div>
       
     </div>
   )
