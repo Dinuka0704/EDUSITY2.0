@@ -63,3 +63,23 @@
 .user-info h3 {
   color: #212ea0;
 }
+
+/* media query */
+
+@media (max-width:800px){
+  .testimonial{
+    padding: 0 40px;
+
+  }
+  .next-btn, .back-btn{
+    padding: 10px;
+    width: 35px;
+  }
+  .testimonial ul li{
+    padding: 10px;
+
+  }
+  .slide{
+    padding: 10px;
+  }
+}
